@@ -1,5 +1,5 @@
 body {
-  margin: 0; /*turning margin off kasun does a default*/
+  margin: 0; /*turning margin off as default*/
   min-height: 100vh;
   font-size: 1em;
   display: flex;
