@@ -1,9 +1,14 @@
 # PGDU website
 
-## lets use svelte. 
+Statis website built with svelte and deployed to github pages.
+
+## Background
+
+This is how we created this source 
+
+### svelte
 
 Following [getting-started](https://svelte.dev/docs/svelte/getting-started)
-
 
 ```sh
 npx sv create pgdu.org
@@ -12,9 +17,9 @@ npm install
 npm run dev
 ```
 
-## lets deploy it to github pages
+### deploy it to github pages
 
-so lets use static site generation [adapter-static](https://svelte.dev/docs/kit/adapter-static)
+Lets use static site generation [adapter-static](https://svelte.dev/docs/kit/adapter-static)
 
-`deploy.yml` in above had odd issues so instead used [vite-github-pages](https://vite.dev/guide/static-deploy.html#github-pages)
-# pgdu.org
+The `deploy.yml` in svelte docs had odd issues so instead used [vite-github-pages](https://vite.dev/guide/static-deploy.html#github-pages)
+
