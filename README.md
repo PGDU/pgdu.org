@@ -23,3 +23,11 @@ Lets use static site generation [adapter-static](https://svelte.dev/docs/kit/ada
 
 The `deploy.yml` in svelte docs had odd issues so instead used [vite-github-pages](https://vite.dev/guide/static-deploy.html#github-pages)
 
+To test build locally:
+
+```sh
+npm run build
+npm run preview
+```
+
+To update the site just push to the main branch `main`. Likely we should do this by creating a PR (Pull Request).
