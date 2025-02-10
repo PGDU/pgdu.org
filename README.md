@@ -1,10 +1,10 @@
 # PGDU website
 
-Statis website built with svelte and deployed to github pages.
+Static website built with svelte and deployed to github pages.
 
 ## Background
 
-This is how we created this source 
+This is how we created this source
 
 ### svelte
 
@@ -30,4 +30,4 @@ npm run build
 npm run preview
 ```
 
-To update the site just push to the main branch `main`. Likely we should do this by creating a PR (Pull Request).
+To update the site just push to the branch `main`. Likely we should do this by creating a PR (Pull Request).
