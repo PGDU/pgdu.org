@@ -1,7 +1,7 @@
 <div class="container">
 	<img src="mstile-310x310.png" alt="baby elephent logo" style="width:5%;height:auto;" />
 
-	<h1>Welcome to PgDU</h1>
+	<h1>Welcome to PostgreSQL Down Under</h1>
 	<p>
 		PostgreSQL Down Under Incorporated, known as PGDU, is a non for profit association. Our purpose
 		is to support the growth and education of PostgreSQL, The World's Most Advanced Open Source
